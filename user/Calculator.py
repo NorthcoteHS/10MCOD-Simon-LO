@@ -1,0 +1,5 @@
+number = input ('')
+number = int (number)
+numbers2 = input ('')
+number2 = int (number2)
+print (number * number2)
