@@ -1,3 +1,9 @@
+"""
+Prog: Calculator
+Name: Simon
+Date: 18/04/18
+Desc: to be a calculator
+""""
 print('Welcome to the Circle Calculator!')
 
 r = input('Enter a radius: ')

@@ -1,7 +1,7 @@
 """
 Prog:   ???
-Name:   Student Name
-Date:   12/03/18
+Name:   Simon Lo
+Date:   18/04/18
 Desc:   Says hello to the user.
 """
 

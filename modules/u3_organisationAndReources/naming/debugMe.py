@@ -1,7 +1,7 @@
 """
 Prog:   yesNoProgram.py
-Name:   Student Name
-Date:   12/03/18
+Name:   Simon
+Date:   18/04/18
 Desc:   Answers yes or no to any question.
 """
 
@@ -12,7 +12,7 @@ question = print('Ask me anything!')
 if  question = 'Quit'
     print('Goodbye.)
 else if question == 'Hi' or 'Hello':
-    print('What's up?')
+    print("What's up?")
 
 # Answer yes or no randomly.
 else:
